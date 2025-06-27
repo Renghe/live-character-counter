@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Live Character Counter</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>Tweet Something</h1>
+
+    <br>
+
+     <label class="toggle">
+      <input type="checkbox" id="darkModeToggle" />
+      <span class="slider"></span> Dark Mode 
+    </label>
+
+    <br>
+    <br>
+    
+    <textarea id="inputBox" placeholder="Type your message..."></textarea>
+
+    <p id="charCount">0/100</p>
+
+    <button id="submitBtn" disabled>Submit</button>
+
+    
+    <p id="successMessage" style="display: none; color: green; font-weight: bold; margin-top: 10px;"></p>
+
+    <br /><br />
+    
+   
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
