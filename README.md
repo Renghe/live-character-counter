@@ -41,5 +41,4 @@ This project improved my frontend skills by building a complete UI from scratch,
 ## 📌 Author
 
 - 👨‍💻 Tanvish Renghe  
-- 💼 Portfolio:  
 - 📧 Email: [renghetanvish@gmail.com]
